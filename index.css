@@ -1,0 +1,12 @@
+div.border  {
+    float: left;
+    clear: left;
+    padding: 10px;
+    width: 100%;
+    border: 0px;
+    margin: 0px;
+    background-color: black;
+}
+div.border h1, h2, h3, h4, h5, h6, p, label, a {
+    color: white;
+}
